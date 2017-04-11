@@ -1,0 +1,30 @@
+name : 1000x1000&1300x1200
+duration : 9.99 seconds
+
+Normal 3OP S1 : 
+
+	[1] (0,0)
+	[2] (0,0)
+	[3] (0,0)
+
+Normal 3OP S2 : 
+
+	[1] (0,0)
+	[2] (0,0)
+	[3] (0,0)
+
+Type S1 	: 52584
+
+Type S2 	: 7731776
+
+Angle Rotation 	: 0
+
+Rotated Normal 3OP S2 : 
+
+	[1] (0,0)
+	[2] (0,0)
+	[3] (0,0)
+
+S1 Position 	: (0,0)
+
+S2 Position 	: (0,0)

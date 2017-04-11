@@ -1,0 +1,20 @@
+﻿  Core.cpp
+Core.cpp(1480): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1560): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1613): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1651): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1653): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1660): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1662): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1692): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1739): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1741): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1748): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1750): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1774): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(2046): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(2048): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  VCS3OP.vcxproj -> C:\Users\Widhian\Documents\Visual Studio 2012\Projects\VCS3OP\Release\VCS3OP.exe

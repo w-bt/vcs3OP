@@ -1,0 +1,14 @@
+﻿  Core.cpp
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1398): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1400): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1474): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1528): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1567): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1569): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1576): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1578): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1610): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(1672): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(2018): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\widhian\documents\visual studio 2012\projects\vcs3op\vcs3op\core.cpp(2020): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  VCS3OP.vcxproj -> C:\Users\Widhian\documents\visual studio 2012\Projects\VCS3OP\Debug\VCS3OP.exe
