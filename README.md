@@ -2,7 +2,7 @@
 
 ![Image of VCS3OP](https://i.imgur.com/g92oSRS.jpg)
 
-A (2,2)-Visual Cryptography with Widhian's method (bulk secret image) using C++, openCV, cryptopp, mpir.
+A (2,2)-Visual Cryptography with Widhian's method (single secret image) using C++, openCV, cryptopp, mpir.
 
 M0 = [[ 1, 1, 0, 0], [ 1, 1, 0, 0]]
 
